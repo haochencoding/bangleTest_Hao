@@ -24,7 +24,7 @@ const config = {
       return true;
     }
   },
-  clientId: 'pub_4d4a2d500c784f4098215d25263736d0', //connectApp
+  clientId: 'pub_d9b7e3bf71bc47f28c1afd9072b23da6', //connectApp
   //clientId: 'pub_7c86d46ef00845449f1af4b71f659148', //Test19/01
   oauthProxy: 'http://localhost:3500/oauthproxy',
   redirectURI: 'redirect.html'
